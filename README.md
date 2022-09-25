@@ -1,7 +1,7 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chandan Madhav Gogoi</h1>
 
-<h3 align="center">A passionate AIML from India</h3>
+<h3 align="center">A passionate AIML developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandan0134&label=Profile%20views&color=0e75b6&style=flat" alt="chandan0134" /> </p>
 
