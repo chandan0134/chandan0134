@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)](https://rishavchanda.io)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)]()
 <h1 align="center">Hi 👋, I'm Chandan Madhav Gogoi</h1>
 
 <h3 align="center">A passionate AIML developer from India</h3>
